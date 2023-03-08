@@ -1,9 +1,0 @@
-train: ../RoadSigns/images/train/ 
-val:  ../RoadSigns/images/val/
-test: ../RoadSigns/images/test/
-
-# number of classes
-nc: 4
-
-# class names
-names: ["trafficlight","stop", "speedlimit","crosswalk"]
